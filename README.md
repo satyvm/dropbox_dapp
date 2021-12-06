@@ -1,5 +1,5 @@
 # BlockchainToDoApp
-``` Decentralized File Storage. ```
+``` Decentralized File Storage ```
   
   
 ## Run Locally
@@ -38,5 +38,5 @@ To run tests, run the following command
 ```
 
 
-## 🔧 Project Diagram:
+## Project Diagram:
 ![Project Diagram](https://i.gyazo.com/2738ea6743a40036756b1b5714ab9fa8.png)
