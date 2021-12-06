@@ -1,4 +1,41 @@
-## ``` Decentralized File Storage. ```
+# BlockchainToDoApp
+``` Decentralized File Storage. ```
+  
+  
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/itzsatya/dropbox_dapp.git
+```
+
+Go to the project directory
+
+```bash
+  cd dropbox_dapp
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn run start 
+```
+
+  
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  yarn truffle test
+```
 
 
 ## 🔧 Project Diagram:
